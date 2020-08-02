@@ -1,10 +1,10 @@
 #include "IFTTTWebhook.h"
 #include <ESP8266WiFi.h>
 //----------------------
-#define ssid "ATHENA"
-#define password "Hercules12"
-#define IFTTT_API_KEY ""
-#define IFTTT_EVENT_NAME "delorean1"
+#define ssid "SSDI"
+#define password "PASSWORD"
+#define IFTTT_API_KEY "YOUR GENERATED KEY"
+#define IFTTT_EVENT_NAME "EVENT NAME"
 //-----------------------------
 //ARDUINO ID
 int cl = 5;
